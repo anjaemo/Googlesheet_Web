@@ -1,5 +1,6 @@
 {
   "name": "googlesheet-web",
+  "homepage": "https://anjaemo.github.io/Googlesheet_Web",
   "private": true,
   "version": "0.0.0",
   "type": "module",
